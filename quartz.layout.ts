@@ -19,7 +19,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Explorer()),
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [

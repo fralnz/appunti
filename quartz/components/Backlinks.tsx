@@ -18,7 +18,7 @@ function Backlinks({ fileData, allFiles, displayClass }: QuartzComponentProps) {
             </li>
           ))
         ) : (
-          <li>No backlinks found</li>
+          <li>Nessun backlink trovato</li>
         )}
       </ul>
     </div>
