@@ -1,3 +1,8 @@
+---
+tags:
+  - OS
+---
+
 ## Introduzione
 
 Numeri _arabi_: 145 ... $\leftarrow$ scrittura posizionale;
@@ -5,6 +10,7 @@ Numeri romani: XL / LX $\leftarrow$ scrittura non posizionale;
 Simboli **binari**: 0/1, acceso/spento, true/false.
 
 Nel caso dell'informatica, le applicazioni sono lette dalla macchina quando scritte base binaria (2), quindi composte da 1 e 0.
+**NB**: ogni numero binario che termina con 0 a destra e' pari e ogni numero binario che termina con 1 e' dispari.
 Altri esempi di basi sono:
 - decimale: composta da 10 cifre (da 0 a 9);
 - ottale: composta da 8 cifre (da 0 a 7);

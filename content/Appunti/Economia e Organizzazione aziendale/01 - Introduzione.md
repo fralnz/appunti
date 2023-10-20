@@ -1,3 +1,8 @@
+---
+tags:
+  - economia
+---
+
 Economia = **società** e **mercato**
 
 Il mercato ha poco a che vedere con il denaro, è più legato al concetto di **scambio**, come ad esempio il baratto (esiste dalle prime civiltà, quindi prima dell'introduzione della moneta).
