@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>📒 Appunti</title>
+      <link>https://appunti.franza.dev</link>
+      <description>Last 10 notes on 📒 Appunti</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>01 - Introduzione</title>
+    <link>https://appunti.franza.dev/Economia-e-Organizzazione-aziendale/01---Introduzione</link>
+    <guid>https://appunti.franza.dev/Economia-e-Organizzazione-aziendale/01---Introduzione</guid>
+    <description>Economia = società e mercato Il mercato ha poco a che vedere con il denaro, è più legato al concetto di scambio, come ad esempio il baratto (esiste dalle prime civiltà, quindi prima dell’introduzione della moneta).</description>
+    <pubDate>Fri, 20 Oct 2023 10:34:20 GMT</pubDate>
+  </item><item>
+    <title>01.1 - Sondaggio Prima lezione</title>
+    <link>https://appunti.franza.dev/Economia-e-Organizzazione-aziendale/01.1---Sondaggio-Prima-lezione</link>
+    <guid>https://appunti.franza.dev/Economia-e-Organizzazione-aziendale/01.1---Sondaggio-Prima-lezione</guid>
+    <description>Domande 1 § Motivazione all’ingresso nell’ITS? Quali sono le attese all’uscita del corso? Risposte § Approccio più pratico rispetto all’università e a più contatto con il mondo del lavoro, mantenendo un ambiente più ristretto e meno dispersivo Conversione in crediti universitari Una buona formazione su come muoversi all’interno di una azienda e come gestirla Una buona conoscenza sulla programmazione Esperienza lavorativa Risposte di gruppo § Approccio pratico e responsabilizzazione Formazione generale e realizzazione di un progetto personale Domande 2 § In famiglia quanti non lavorano? Quali sono le spese extra? Dal 1 Gennaio quanti libri hai letto? Risposte § 3 abbonamento della musica, dischi, equipaggiamento per foto, uscite con gli amici, concerti, fumetti, libri, cinema, palestra 3 libri .</description>
+    <pubDate>Fri, 20 Oct 2023 10:34:20 GMT</pubDate>
+  </item><item>
+    <title>01 - Codice Binario</title>
+    <link>https://appunti.franza.dev/Sistemi-Operativi-e-Gestione-della-concorrenza/01---Codice-Binario</link>
+    <guid>https://appunti.franza.dev/Sistemi-Operativi-e-Gestione-della-concorrenza/01---Codice-Binario</guid>
+    <description>Introduzione § Numeri arabi: 145 … ← scrittura posizionale; Numeri romani: XL / LX ← scrittura non posizionale; Simboli binari: 0/1, acceso/spento, true/false.</description>
+    <pubDate>Fri, 20 Oct 2023 10:34:20 GMT</pubDate>
+  </item><item>
+    <title>01.1 - Somma e Sottrazione</title>
+    <link>https://appunti.franza.dev/Sistemi-Operativi-e-Gestione-della-concorrenza/01.1---Somma-e-Sottrazione</link>
+    <guid>https://appunti.franza.dev/Sistemi-Operativi-e-Gestione-della-concorrenza/01.1---Somma-e-Sottrazione</guid>
+    <description>Somma § La somma tra due numeri di base B e’ piuttosto elementare: si fanno le addizioni in colonna e se la cifra risultante e’ superiore alla base si aggiunge il riporto alla colonna successiva: 01101+001=110 101(2)​+001(2)​=110(2)​ Implementazione Hardware § Per implementare la somma con l’hardware servono due circuiti logici: AND, usato per la somma; XOR (exclusive OR), usato per il riporto; NOT, un terzo componente usato per il cambio di bit (da 0 a 1 e viceversa).</description>
+    <pubDate>Fri, 20 Oct 2023 10:34:20 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://appunti.franza.dev/</link>
+    <guid>https://appunti.franza.dev/</guid>
+    <description></description>
+    <pubDate>Fri, 20 Oct 2023 10:34:37 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
