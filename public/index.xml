@@ -6,6 +6,12 @@
       <description>Last 10 notes on 📒 Appunti</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>About</title>
+    <link>https://appunti.franza.dev/About</link>
+    <guid>https://appunti.franza.dev/About</guid>
+    <description>Come ho fatto il sito § Come specificato in Home, questo sito e’ il risultato della conversione del mio vault di Obsidian in pagine statiche per il web.</description>
+    <pubDate>Fri, 20 Oct 2023 16:32:59 GMT</pubDate>
+  </item><item>
     <title>01 - Introduzione</title>
     <link>https://appunti.franza.dev/Appunti/Economia-e-Organizzazione-aziendale/01---Introduzione</link>
     <guid>https://appunti.franza.dev/Appunti/Economia-e-Organizzazione-aziendale/01---Introduzione</guid>

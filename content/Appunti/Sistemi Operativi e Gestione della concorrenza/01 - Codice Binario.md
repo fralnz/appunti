@@ -2,7 +2,6 @@
 tags:
   - OS
 ---
-
 ## Introduzione
 
 Numeri _arabi_: 145 ... $\leftarrow$ scrittura posizionale;
@@ -18,7 +17,7 @@ Altri esempi di basi sono:
 ## Conversione da base 10 a base B
 
 Per convertire un numero in base 10 a base B, bisogna dividere ripetutamente il numero per B fino a che non si arriva a 0, e scrivere i resti delle divisioni in ordine inverso.
-**ES**: Convertiamo il numero $13_{(10)}$ in base $2$
+**ES**: Convertiamo il numero $13_{(10)}$ in base 2
 $13_{(10)} = ?_{(2)}$
 
 | 13 | 2 |
@@ -31,6 +30,7 @@ $13_{(10)} = ?_{(2)}$
 $13_{(10)} = 1101_{(2)}$ 
 
 ## Conversione da base B a base 10
+
 Se vogliamo convertire da base B a base 10, dobbiamo moltiplicare ogni cifra per $B^i$, dove $i$ e' la posizione della cifra e parte da 0. Nel caso di 1101:
 $$1^{(3)}1^{(2)}0^{(1)}1^{(0)}$$
 _**NB**: l'apice indica il valore di $i$_
