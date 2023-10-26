@@ -10,7 +10,7 @@ Il Project Manager è responsabile della pianificazione e controllo di progetti,
 
 Il triangolo del PM: tempo, costo e raggio si uniscono per determinare la **qualità** del progetto.
 
-```mermaid
+``` mermaid
 graph LR
   S0(Tempo)
   T1(Costo)
