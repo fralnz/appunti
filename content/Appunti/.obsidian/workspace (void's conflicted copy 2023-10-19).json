@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "c53db0babc2ccc30",
+    "type": "split",
+    "children": [
+      {
+        "id": "80329f807a647538",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75370c0c385eaa2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economia e Organizzazione aziendale/01.1 - Sondaggio Prima lezione.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b35376a1f4f3c961",
+    "type": "split",
+    "children": [
+      {
+        "id": "5541a4432d60d780",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c1dfb249cffa8ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ceb95db61a491145",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c4b5b5c54912c8bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be021d5120380f9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "291153e17cf94f64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d87fc227dadbf05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Economia e Organizzazione aziendale/01.1 - Sondaggio Prima lezione.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "38623d30df10a30c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Economia e Organizzazione aziendale/01.1 - Sondaggio Prima lezione.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62ff371efb88b010",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "57d40b4b6011acf7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Economia e Organizzazione aziendale/01.1 - Sondaggio Prima lezione.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6c1dfb249cffa8ed",
+  "lastOpenFiles": [
+    "Economia e Organizzazione aziendale/01 - Introduzione.md",
+    "Untitled.canvas",
+    "Sistemi Operativi e Gestione della concorrenza/01 - Introduzione.md",
+    "Economia e Organizzazione aziendale/01.1 - Sondaggio Prima lezione.md",
+    "Sistemi Operativi e Gestione della concorrenza",
+    "Economia Aziendale/Introduzione.md",
+    "Economia e Organizzazione aziendale"
+  ]
+}

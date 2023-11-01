@@ -32,7 +32,7 @@ Se vogliamo convertire da base B a base 10, dobbiamo moltiplicare ogni cifra per
 $$1^{(3)}1^{(2)}0^{(1)}1^{(0)}$$
 _**NB**: l'apice indica il valore di $i$_
 $$
-1101_{(10)}=1\times2^0+0\times2^1+1\times2^2+1\times2^3=*1+0\times2+1\times4+1\times8=1+0+4+8=13_{(10)}
+1101_{(2)}=1\times2^0+0\times2^1+1\times2^2+1\times2^3=*1+0\times2+1\times4+1\times8=1+0+4+8=13_{(10)}
 $$
 Se vogliamo usare basi diverse da 2 il procedimento e' analogo, basta sostituire B con la base che si vuole usare.
 ## Cambio di base con potenze di 2

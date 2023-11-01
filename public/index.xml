@@ -10,31 +10,55 @@
     <link>https://appunti.franza.dev/About</link>
     <guid>https://appunti.franza.dev/About</guid>
     <description>Come ho fatto il sito § Come specificato in Home, questo sito e’ il risultato della conversione del mio vault di Obsidian in pagine statiche per il web.</description>
-    <pubDate>Fri, 20 Oct 2023 16:32:59 GMT</pubDate>
+    <pubDate>Thu, 26 Oct 2023 18:35:34 GMT</pubDate>
   </item><item>
-    <title>01 - Introduzione</title>
-    <link>https://appunti.franza.dev/Appunti/Economia-e-Organizzazione-aziendale/01---Introduzione</link>
-    <guid>https://appunti.franza.dev/Appunti/Economia-e-Organizzazione-aziendale/01---Introduzione</guid>
+    <title>01 - Introduzione alla comunicazione</title>
+    <link>https://appunti.franza.dev/Appunti/Comunicazione/01---Introduzione-alla-comunicazione</link>
+    <guid>https://appunti.franza.dev/Appunti/Comunicazione/01---Introduzione-alla-comunicazione</guid>
+    <description>5 cose § vado spesso in bici mi piace andare in moto sono in una serie tv ho 10 animali mi piace andare in palestra Informare = passaggio di dati. Comunicare = aspettare delle risposte.</description>
+    <pubDate>Thu, 26 Oct 2023 18:35:50 GMT</pubDate>
+  </item><item>
+    <title>01 - Introduzione all&#039;economia</title>
+    <link>https://appunti.franza.dev/Appunti/Economia-e-Organizzazione-aziendale/01---Introduzione-all'economia</link>
+    <guid>https://appunti.franza.dev/Appunti/Economia-e-Organizzazione-aziendale/01---Introduzione-all'economia</guid>
     <description>Economia = società e mercato Il mercato ha poco a che vedere con il denaro, è più legato al concetto di scambio, come ad esempio il baratto (esiste dalle prime civiltà, quindi prima dell’introduzione della moneta).</description>
-    <pubDate>Fri, 20 Oct 2023 12:26:51 GMT</pubDate>
+    <pubDate>Thu, 26 Oct 2023 18:35:34 GMT</pubDate>
   </item><item>
     <title>01.1 - Sondaggio Prima lezione</title>
     <link>https://appunti.franza.dev/Appunti/Economia-e-Organizzazione-aziendale/01.1---Sondaggio-Prima-lezione</link>
     <guid>https://appunti.franza.dev/Appunti/Economia-e-Organizzazione-aziendale/01.1---Sondaggio-Prima-lezione</guid>
     <description>Domande 1 § Motivazione all’ingresso nell’ITS? Quali sono le attese all’uscita del corso? Risposte § Approccio più pratico rispetto all’università e a più contatto con il mondo del lavoro, mantenendo un ambiente più ristretto e meno dispersivo Conversione in crediti universitari Una buona formazione su come muoversi all’interno di una azienda e come gestirla Una buona conoscenza sulla programmazione Esperienza lavorativa Risposte di gruppo § Approccio pratico e responsabilizzazione Formazione generale e realizzazione di un progetto personale Domande 2 § In famiglia quanti non lavorano? Quali sono le spese extra? Dal 1 Gennaio quanti libri hai letto? Risposte § 3 abbonamento della musica, dischi, equipaggiamento per foto, uscite con gli amici, concerti, fumetti, libri, cinema, palestra 3 libri .</description>
-    <pubDate>Fri, 20 Oct 2023 12:26:51 GMT</pubDate>
+    <pubDate>Thu, 26 Oct 2023 18:35:34 GMT</pubDate>
+  </item><item>
+    <title>01 - Introduzione al PM</title>
+    <link>https://appunti.franza.dev/Appunti/Project-Management/01---Introduzione-al-PM</link>
+    <guid>https://appunti.franza.dev/Appunti/Project-Management/01---Introduzione-al-PM</guid>
+    <description>Metodologia: Agile. Stakeholder: chi ne risente del tuo progetto. Chi è il Project Manager? § Il Project Manager è responsabile della pianificazione e controllo di progetti, dall’idea sino al loro completamento.</description>
+    <pubDate>Thu, 26 Oct 2023 18:35:34 GMT</pubDate>
   </item><item>
     <title>01 - Codice Binario</title>
     <link>https://appunti.franza.dev/Appunti/Sistemi-Operativi-e-Gestione-della-concorrenza/01---Codice-Binario</link>
     <guid>https://appunti.franza.dev/Appunti/Sistemi-Operativi-e-Gestione-della-concorrenza/01---Codice-Binario</guid>
     <description>Introduzione § Numeri arabi: 145 … ← scrittura posizionale; Numeri romani: XL / LX ← scrittura non posizionale; Simboli binari: 0/1, acceso/spento, true/false.</description>
-    <pubDate>Fri, 20 Oct 2023 12:26:51 GMT</pubDate>
+    <pubDate>Thu, 26 Oct 2023 18:35:34 GMT</pubDate>
   </item><item>
     <title>01.1 - Somma e Sottrazione</title>
     <link>https://appunti.franza.dev/Appunti/Sistemi-Operativi-e-Gestione-della-concorrenza/01.1---Somma-e-Sottrazione</link>
     <guid>https://appunti.franza.dev/Appunti/Sistemi-Operativi-e-Gestione-della-concorrenza/01.1---Somma-e-Sottrazione</guid>
     <description>Somma § La somma tra due numeri di base B e’ piuttosto elementare: si fanno le addizioni in colonna e se la cifra risultante e’ superiore alla base si aggiunge il riporto alla colonna successiva: 01101+001=110 101(2)​+001(2)​=110(2)​ Implementazione Hardware § Per implementare la somma con l’hardware servono due circuiti logici: AND, usato per la somma; XOR (exclusive OR), usato per il riporto; NOT, un terzo componente usato per il cambio di bit (da 0 a 1 e viceversa).</description>
-    <pubDate>Fri, 20 Oct 2023 12:26:51 GMT</pubDate>
+    <pubDate>Thu, 26 Oct 2023 18:35:34 GMT</pubDate>
+  </item><item>
+    <title>02 - Computer e Sistema Operativo</title>
+    <link>https://appunti.franza.dev/Appunti/Sistemi-Operativi-e-Gestione-della-concorrenza/02---Computer-e-Sistema-Operativo</link>
+    <guid>https://appunti.franza.dev/Appunti/Sistemi-Operativi-e-Gestione-della-concorrenza/02---Computer-e-Sistema-Operativo</guid>
+    <description>Il sistema operativo è un software che fornisce delle funzionalità all’utente, astraendo dall’hardware sottostante. Computer § Un computer è un un dispositivo in grado di: Elaborare dati; Memorizzare dati; Trasferire dati da e verso l’esterno; Eseguire operazioni di controllo e coordinamento tra le parti di cui è composto.</description>
+    <pubDate>Thu, 26 Oct 2023 18:35:50 GMT</pubDate>
+  </item><item>
+    <title>02.1 - Sistema Operativo</title>
+    <link>https://appunti.franza.dev/Appunti/Sistemi-Operativi-e-Gestione-della-concorrenza/02.1---Sistema-Operativo</link>
+    <guid>https://appunti.franza.dev/Appunti/Sistemi-Operativi-e-Gestione-della-concorrenza/02.1---Sistema-Operativo</guid>
+    <description>Il Sistema Operativo (SO): è uno strato software che nasconde agli utenti i dettagli dell’architettura hardware del calcolatore; fornisce diverse funzionalità ad alto livello che facilitano l’accesso alle risorse del calcolatore, supporta l’esecuzione dei programmi applicativi definendo una macchina virtuale, cioè un modello ideale del calcolatore, sollevando il software applicativo dal compito di gestire i limiti delle risorse disponibili, Per motivi di sicurezza, i sistemi operativi sono divisi in livelli: flowchart LR subgraph Livello 3 Applicazioni --&gt; A[Servizi] subgraph Livello 2 A --&gt; B[Servizi] subgraph Livello 1 B --&gt; Kernel subgraph Livello 0 Kernel end end end end Eccezioni § Un evento hardware che riportano un malfunzionamento della macchina.</description>
+    <pubDate>Thu, 26 Oct 2023 18:35:50 GMT</pubDate>
   </item><item>
     <title>Home</title>
     <link>https://appunti.franza.dev/</link>

@@ -2,14 +2,6 @@
 tags:
   - comunicazione
 ---
-## 5 cose
-
-- vado spesso in bici
-- mi piace andare in moto
-- sono in una serie tv
-- ho 10 animali
-- mi piace andare in palestra
-
 **Informare** = passaggio di dati.
 **Comunicare** = aspettare delle risposte.
 La comunicazione termina quando l'altro capisce o finisce la pazienza.
