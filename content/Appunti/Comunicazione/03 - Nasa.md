@@ -1,0 +1,1 @@
+1. siamo SUPER chill. Sappiamo lavorare in gruppo. Siamo motivati. Condividiamo e ammiriamo il desiderio di ricerca della NASA. Tutti PUNTUALISSIMI. Siamo creativi ma anche pragmatici. Pieni di energia. Lavoriamo il ferro come pochi.

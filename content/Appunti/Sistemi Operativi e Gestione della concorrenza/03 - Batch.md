@@ -1,3 +1,8 @@
+---
+tags:
+  - OS
+---
+
 BIOS: Basic Input Output Software
 Il bios, una volta riconosciuto il disco, ne legge i settori (grandi 512 byte) che introducono il SO.
 **Processo**: un programma in esecuzione.
