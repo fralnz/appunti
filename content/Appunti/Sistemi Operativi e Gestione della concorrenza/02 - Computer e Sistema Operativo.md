@@ -56,7 +56,7 @@ Gli **elementi principali** della macchina di Von Neumann sono:
 	- Comunicazione con l’ambiente esterno
 	- Tastiera, mouse, video, altoparlanti, stampanti
 	- L’ambiente esterno non è sempre un utente umano (impianti industriali, robot, strumenti di controllo)
-- Bus di sistema:
+- [[#Bus di sistema|Bus di sistema]]:
 	- Insieme di fili di rame che collegano tutti i componenti del sistema e consente lo scambio di dati
 ### Memoria Centrale
 La memoria centrale contiene le informazioni su cui la CPU sta operando, cioè sia i dati che le istruzioni dei programmi. Tutta l’informazione, per poter essere elaborata, deve passare dalla memoria centrale (e successivamente caricata in uno dei registri della CPU).

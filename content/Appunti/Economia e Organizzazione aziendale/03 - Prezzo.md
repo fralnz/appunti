@@ -1,3 +1,7 @@
+---
+tags:
+  - economia
+---
 **Porter**: ci sono due modi in cui una azienda determina il prezzo dei propri prodotti:
 - Leadership di costo
 	- prezzi minori a parità di benefici offerti
@@ -5,3 +9,4 @@
 - Differenziazione
 	- valore offerto superiore rispetto alla concorrenza
 	- focus sul cliente e sulle modalità di comunicazione
+**Ricavi** = volume x prezzo

@@ -1,3 +1,7 @@
+---
+tags:
+  - algo
+---
 **Algoritmo**: elenco finito di istruzioni, che specificano le operazioni eseguendo le quali si risolve una classe di problemi.
 **Programma**: ricetta che traduce l'algoritmo ed è direttamente comprensibile, pertanto eseguibile, dall'elaboratore.
 

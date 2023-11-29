@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi Operativi e Gestione della concorrenza/05.1 - Funzioni.md",
+                "file": "Project Management/03 - Pianificazione Agile.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f977addc1a5dbe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Management/03.1 - Esercizio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi Operativi e Gestione della concorrenza/05.1 - Funzioni.md",
+                "file": "Project Management/03 - Pianificazione Agile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi Operativi e Gestione della concorrenza/05.1 - Funzioni.md",
+                "file": "Project Management/03 - Pianificazione Agile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi Operativi e Gestione della concorrenza/05.1 - Funzioni.md"
+                "file": "Project Management/03 - Pianificazione Agile.md"
               }
             }
           },
@@ -138,7 +150,7 @@
             }
           },
           {
-            "id": "b5be7573eb850243",
+            "id": "9a55968e12ed82cd",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -167,50 +179,49 @@
   },
   "active": "6ad882f45727a97a",
   "lastOpenFiles": [
-    "Algoritmi e Strutture Dati/02 - Strategia risolutiva.md",
-    "Economia e Organizzazione aziendale/Punto di pareggio.md",
-    "Economia e Organizzazione aziendale/05 - Costo del lavoro.md",
-    "Economia e Organizzazione aziendale/03 - Prezzo.md",
-    "Economia e Organizzazione aziendale/04 - Mercato di riferimento.md",
-    "Economia e Organizzazione aziendale/02.1 - Progetto.md",
-    "Economia e Organizzazione aziendale/02.0 - L'approccio sistemico.md",
-    "Economia e Organizzazione aziendale/01.1 - Sondaggio Prima lezione.md",
-    "Sistemi Operativi e Gestione della concorrenza/05.1 - Funzioni.md",
-    "Sistemi Operativi e Gestione della concorrenza/03 - Batch.md",
-    "Sistemi Operativi e Gestione della concorrenza/02.1 - Sistema Operativo.md",
-    "Sistemi Operativi e Gestione della concorrenza/02 - Computer e Sistema Operativo.md",
-    "Sistemi Operativi e Gestione della concorrenza/05 - Interruzioni.md",
-    "images/numa.png",
-    "images/multicore.png",
-    "images/DMA.png",
-    "Sistemi Operativi e Gestione della concorrenza/04 - Primi programmi.md",
     "Algoritmi e Strutture Dati/01 - Introduzione agli algoritmi.md",
-    "Comunicazione/Esame.md",
-    "Comunicazione/03 - Sunto.md",
-    "Comunicazione/02 - Basi della comunicazione.md",
-    "Comunicazione/03 - Nasa.md",
-    "Sistemi Operativi e Gestione della concorrenza/03.1 - Esercizi.md",
-    "Project Management/04.1 - Stakeholder e Soft Skills.md",
-    "Project Management/04 - Esecuzione.md",
     "Project Management/03.1 - Esercizio.md",
-    "Comunicazione/01 - Introduzione alla comunicazione.md",
-    "Economia e Organizzazione aziendale/06 - Business Unit.md",
-    "images/Stakeholders.png",
-    "images/Gantt.png",
-    "images/DiagrammaCumulativo.png",
-    "images/SprintReport.png",
-    "Pasted image 20231120100447.png",
-    "images/Burnup.png",
-    "images/Burndown.png",
+    "Sistemi Operativi e Gestione della concorrenza/02 - Computer e Sistema Operativo.md",
     "Project Management/03 - Pianificazione Agile.md",
     "Algoritmi e Strutture Dati",
+    "Economia e Organizzazione aziendale/03 - Prezzo.md",
+    "Economia e Organizzazione aziendale/01 - Introduzione all'economia.md",
+    "Comunicazione/03 - Nasa.md",
+    "dwarf.png",
+    "Pasted image 20231107172059.png",
+    "Economia e Organizzazione aziendale/02.1 - Progetto.md",
+    "images/VelocityChart.png",
+    "images/Roadmap.png",
+    "Project Management/02.2 - Scrum.md",
+    "Project Management/01 - Introduzione al PM.md",
+    "Project Management/02.1 - Kanban VS Scrum.md",
+    "Sistemi Operativi e Gestione della concorrenza/04 - Primi programmi.md",
+    "Sistemi Operativi e Gestione della concorrenza/01 - Codice Binario.md",
+    "Sistemi Operativi e Gestione della concorrenza/02.1 - Sistema Operativo.md",
+    "Sistemi Operativi e Gestione della concorrenza/03 - Batch.md",
+    "Sistemi Operativi e Gestione della concorrenza/03.1 - Esercizi.md",
+    "Economia e Organizzazione aziendale/02.0 - L'approccio sistemico.md",
+    "Economia e Organizzazione aziendale/01.1 - Sondaggio Prima lezione.md",
+    "Comunicazione/02 - Basi della comunicazione.md",
+    "images/BusDiSistema.png",
+    "images/AnsoffMatrix.png",
+    "images/CerimonieScrum.png",
+    "images/FasiScrum.png",
+    "images/KanbanVsScrum.png",
+    "images/VonNeumann.png",
+    "Comunicazione/01 - Introduzione alla comunicazione.md",
+    "Sistemi Operativi e Gestione della concorrenza/01.1 - Somma e Sottrazione.md",
     "Sistemi Operativi e Gestione della concorrenza/Untitled",
+    "Project Management/02 - Manifesto Agile.md",
+    "Memoria centrale.md",
     "images",
     "New folder",
     "Comunicazione",
+    "Project Management/01.1 - Isola deserta.md",
     "Project Management",
     "Untitled.canvas",
     "Sistemi Operativi e Gestione della concorrenza",
+    "Economia Aziendale/Introduzione.md",
     "Economia e Organizzazione aziendale"
   ]
 }
