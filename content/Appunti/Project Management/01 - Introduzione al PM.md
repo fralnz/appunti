@@ -22,12 +22,10 @@ graph LR
 
 Se voglio fare di più, spenderò di più.
 ## Progetto vs Processo
-
 **Progetto**: uno sforzo temporaneo intrapreso per creare un servizio o un risultato di progetto unico, in un lasso di tempo definito.
 **Processo**: insieme di attività eseguite ripetutamente, con lo scopo di ottenere lo stesso risultato.
 In breve, un progetto è unico, il processo no.
 ## Cosa significa pianificare
-
 La pianificazione è il processo di pensare alle attività richieste per il raggiungimento degli obiettivi desiderati.
 Regola delle cinque W (e una H):
 - Who
@@ -39,7 +37,6 @@ Regola delle cinque W (e una H):
 ## Tipologie di progetto e PM
 
 ### Predittivo vs Adattivo
-
 **Predittivo**: in grado di consentire anticipazioni e previsioni.
 - Guidato da un piano
 - Requisiti fissi

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economia e Organizzazione aziendale/07 - Organizzazione aziendale.md",
+                "file": "Economia e Organizzazione aziendale/06 - Punto di pareggio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce9d854220cc5605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economia e Organizzazione aziendale/Bibbia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:esercizi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economia e Organizzazione aziendale/07 - Organizzazione aziendale.md",
+                "file": "Economia e Organizzazione aziendale/Bibbia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economia e Organizzazione aziendale/07 - Organizzazione aziendale.md",
+                "file": "Economia e Organizzazione aziendale/Bibbia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economia e Organizzazione aziendale/07 - Organizzazione aziendale.md"
+                "file": "Economia e Organizzazione aziendale/Bibbia.md"
               }
             }
           },
@@ -138,7 +151,7 @@
             }
           },
           {
-            "id": "cabfbfea137f3d01",
+            "id": "b5be7573eb850243",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -162,34 +175,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6ad882f45727a97a",
+  "active": "ce9d854220cc5605",
   "lastOpenFiles": [
-    "Economia e Organizzazione aziendale/01 - Introduzione all'economia.md",
-    "Comunicazione/Esame.md",
-    "Comunicazione/03 - Sunto.md",
-    "Comunicazione/02 - Basi della comunicazione.md",
-    "Comunicazione/01 - Introduzione alla comunicazione.md",
-    "Algoritmi e Strutture Dati/02 - Strategia risolutiva.md",
-    "Algoritmi e Strutture Dati/01 - Introduzione agli algoritmi.md",
-    "Economia e Organizzazione aziendale/07 - Organizzazione aziendale.md",
-    "Java/02 - Variabili e Operatori.md",
-    "Economia e Organizzazione aziendale/02.0 - L'approccio sistemico.md",
-    "Economia e Organizzazione aziendale/02.1 - Progetto.md",
-    "Economia e Organizzazione aziendale/03 - Prezzo.md",
-    "Economia e Organizzazione aziendale/04 - Mercato di riferimento.md",
-    "Economia e Organizzazione aziendale/05 - Costo del lavoro.md",
     "Economia e Organizzazione aziendale/06 - Punto di pareggio.md",
     "Economia e Organizzazione aziendale/Bibbia.md",
-    "Pasted image 20231211092623.png",
-    "Java/02.1 - Esercizi.md",
-    "Java/01 - Introduzione a Java.md",
+    "Economia e Organizzazione aziendale/05 - Costo del lavoro.md",
+    "Economia e Organizzazione aziendale/04 - Mercato di riferimento.md",
+    "Economia e Organizzazione aziendale/03 - Prezzo.md",
+    "Economia e Organizzazione aziendale/02.1 - Progetto.md",
+    "Economia e Organizzazione aziendale/02.0 - L'approccio sistemico.md",
     "Economia e Organizzazione aziendale/01.1 - Sondaggio Prima lezione.md",
-    "Untitled 1",
-    "Java",
+    "Economia e Organizzazione aziendale/01 - Introduzione all'economia.md",
     "Project Management/04.1 - Stakeholder e Soft Skills.md",
     "Sistemi Operativi e Gestione della concorrenza/06 - Funzioni Ricorsive e Array.md",
     "Project Management/02.2 - Scrum.md",
@@ -197,15 +196,26 @@
     "Project Management/02.1 - Kanban VS Scrum.md",
     "Project Management/03 - Pianificazione Agile.md",
     "Project Management/01 - Introduzione al PM.md",
+    "Project Management/04 - Esecuzione.md",
+    "Project Management/03.1 - Esercizio.md",
+    "Sistemi Operativi e Gestione della concorrenza/05.1 - Funzioni e Stack.md",
+    "Algoritmi e Strutture Dati/02 - Strategia risolutiva.md",
+    "Sistemi Operativi e Gestione della concorrenza/03 - Batch.md",
+    "Sistemi Operativi e Gestione della concorrenza/02.1 - Sistema Operativo.md",
+    "Sistemi Operativi e Gestione della concorrenza/02 - Computer e Sistema Operativo.md",
+    "Sistemi Operativi e Gestione della concorrenza/05 - Interruzioni.md",
     "images/numa.png",
     "images/multicore.png",
     "images/DMA.png",
+    "Sistemi Operativi e Gestione della concorrenza/04 - Primi programmi.md",
+    "Algoritmi e Strutture Dati/01 - Introduzione agli algoritmi.md",
     "images/Stakeholders.png",
     "images/Gantt.png",
     "images/DiagrammaCumulativo.png",
     "images/SprintReport.png",
     "Pasted image 20231120100447.png",
     "images/Burnup.png",
+    "images/Burndown.png",
     "Algoritmi e Strutture Dati",
     "Sistemi Operativi e Gestione della concorrenza/Untitled",
     "images",

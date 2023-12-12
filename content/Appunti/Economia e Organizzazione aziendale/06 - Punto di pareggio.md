@@ -1,3 +1,8 @@
+---
+tags:
+  - economia
+---
+
 **Determinazione del volume sufficiente a coprire i costi**.
 Relazione: ricavi - costi
 Profitto = prezzo x volume - (costi variabili (diretti) x volume + costi fissi (indiretti))
