@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ad882f45727a97a",
+            "id": "80e55cc550489dc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economia e Organizzazione aziendale/07 - Organizzazione aziendale.md",
+                "file": "UFS01 - Sistemi Operativi e Gestione della concorrenza/06.1 - Esercizi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economia e Organizzazione aziendale/07 - Organizzazione aziendale.md",
+                "file": "UFS01 - Sistemi Operativi e Gestione della concorrenza/06.1 - Esercizi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economia e Organizzazione aziendale/07 - Organizzazione aziendale.md",
+                "file": "UFS01 - Sistemi Operativi e Gestione della concorrenza/06.1 - Esercizi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economia e Organizzazione aziendale/07 - Organizzazione aziendale.md"
+                "file": "UFS01 - Sistemi Operativi e Gestione della concorrenza/06.1 - Esercizi.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             }
           },
           {
-            "id": "cabfbfea137f3d01",
+            "id": "1a5467994999979d",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -166,54 +166,54 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6ad882f45727a97a",
+  "active": "80e55cc550489dc1",
   "lastOpenFiles": [
-    "Economia e Organizzazione aziendale/01 - Introduzione all'economia.md",
-    "Comunicazione/Esame.md",
-    "Comunicazione/03 - Sunto.md",
-    "Comunicazione/02 - Basi della comunicazione.md",
-    "Comunicazione/01 - Introduzione alla comunicazione.md",
-    "Algoritmi e Strutture Dati/02 - Strategia risolutiva.md",
-    "Algoritmi e Strutture Dati/01 - Introduzione agli algoritmi.md",
-    "Economia e Organizzazione aziendale/07 - Organizzazione aziendale.md",
-    "Java/02 - Variabili e Operatori.md",
-    "Economia e Organizzazione aziendale/02.0 - L'approccio sistemico.md",
-    "Economia e Organizzazione aziendale/02.1 - Progetto.md",
-    "Economia e Organizzazione aziendale/03 - Prezzo.md",
-    "Economia e Organizzazione aziendale/04 - Mercato di riferimento.md",
-    "Economia e Organizzazione aziendale/05 - Costo del lavoro.md",
-    "Economia e Organizzazione aziendale/06 - Punto di pareggio.md",
-    "Economia e Organizzazione aziendale/Bibbia.md",
+    "UFS01 - Sistemi Operativi e Gestione della concorrenza/07.1 - Macchine Virtuali.md",
+    "UFS01 - Sistemi Operativi e Gestione della concorrenza/07 - Sistemi Monolitici, Modulari e Stratificati.md",
+    "UFS01 - Sistemi Operativi e Gestione della concorrenza/06.1 - Esercizi.md",
+    "UFS01 - Sistemi Operativi e Gestione della concorrenza/06 - Funzioni Ricorsive e Array.md",
+    "UFS01 - Sistemi Operativi e Gestione della concorrenza/05.1 - Funzioni e Stack.md",
+    "UFS01 - Sistemi Operativi e Gestione della concorrenza/05 - Interruzioni.md",
+    "UFS01 - Sistemi Operativi e Gestione della concorrenza/04 - Primi programmi.md",
+    "UFS01 - Sistemi Operativi e Gestione della concorrenza/03.1 - Esercizi.md",
+    "UFS01 - Sistemi Operativi e Gestione della concorrenza/03 - Batch.md",
+    "UFS01 - Sistemi Operativi e Gestione della concorrenza/02.1 - Sistema Operativo.md",
+    "UFS01 - Sistemi Operativi e Gestione della concorrenza/02 - Computer e Sistema Operativo.md",
+    "UFS01 - Sistemi Operativi e Gestione della concorrenza/01.1 - Somma e Sottrazione.md",
+    "UFT06 - Project Management/04.1 - Stakeholder e Soft Skills.md",
+    "UFS03 - Algoritmi e Strutture Dati/03 - Array associativi.md",
+    "images/darwin.png",
+    "UFT04 - Economia e Organizzazione aziendale/07 - Organizzazione aziendale.md",
+    "images/microkernel.png",
+    "images/syscall.png",
+    "images/ModalitaKernel.png",
+    "UFS01 - Sistemi Operativi e Gestione della concorrenza/01 - Codice Binario.md",
+    "images/SOstructure.png",
+    "UFS03 - Algoritmi e Strutture Dati/01 - Introduzione agli algoritmi.md",
+    "UFS04 - Basi di Java/02 - Variabili e Operatori.md",
+    "UFT06 - Project Management/02.1 - Kanban VS Scrum.md",
+    "UFT06 - Project Management/04 - Esecuzione.md",
+    "UFT06 - Project Management/03.1 - Esercizio.md",
+    "UFT06 - Project Management/03 - Pianificazione Agile.md",
+    "UFT06 - Project Management/02.2 - Scrum.md",
+    "UFT06 - Project Management/02 - Manifesto Agile.md",
+    "UFT06 - Project Management/01 - Introduzione al PM.md",
+    "UFS04 - Basi di Java/02.1 - Esercizi.md",
     "Pasted image 20231211092623.png",
-    "Java/02.1 - Esercizi.md",
-    "Java/01 - Introduzione a Java.md",
-    "Economia e Organizzazione aziendale/01.1 - Sondaggio Prima lezione.md",
     "Untitled 1",
-    "Java",
-    "Project Management/04.1 - Stakeholder e Soft Skills.md",
-    "Sistemi Operativi e Gestione della concorrenza/06 - Funzioni Ricorsive e Array.md",
-    "Project Management/02.2 - Scrum.md",
-    "Project Management/02 - Manifesto Agile.md",
-    "Project Management/02.1 - Kanban VS Scrum.md",
-    "Project Management/03 - Pianificazione Agile.md",
-    "Project Management/01 - Introduzione al PM.md",
+    "UFS04 - Basi di Java",
     "images/numa.png",
     "images/multicore.png",
     "images/DMA.png",
     "images/Stakeholders.png",
-    "images/Gantt.png",
-    "images/DiagrammaCumulativo.png",
-    "images/SprintReport.png",
-    "Pasted image 20231120100447.png",
-    "images/Burnup.png",
-    "Algoritmi e Strutture Dati",
+    "UFS03 - Algoritmi e Strutture Dati",
     "Sistemi Operativi e Gestione della concorrenza/Untitled",
     "images",
     "New folder",
-    "Comunicazione",
-    "Project Management",
+    "UFT09 - Comunicazione",
+    "UFT06 - Project Management",
     "Untitled.canvas",
-    "Sistemi Operativi e Gestione della concorrenza",
-    "Economia e Organizzazione aziendale"
+    "UFS01 - Sistemi Operativi e Gestione della concorrenza",
+    "UFT04 - Economia e Organizzazione aziendale"
   ]
 }

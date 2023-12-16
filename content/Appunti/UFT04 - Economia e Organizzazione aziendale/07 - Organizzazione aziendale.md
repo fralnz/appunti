@@ -27,7 +27,7 @@ B --- Contabilità
 B --- Vendite
 ```
 # Tipi di aziende
-- Aziende di **produzione**: soddisfa i bisogni tramite la realizzazione di prodotti tangibili (mobili, abbigliamento, macchinari...).
+- Aziende di **produzione**: soddisfa i bisogni tramite la realizzazione di prodotti tangibili (            mobili, abbigliamento, macchinari...).
 - Aziende di **servizi**: soddisfa i bisogni tramite attività e erogazione di servizi (logistica, banca, posta...).
 - Aziende **commerciali**: soddisfa i bisogni tramite attività di vendita/distribuzione di aziende di produzione.
 # Aree funzionali
